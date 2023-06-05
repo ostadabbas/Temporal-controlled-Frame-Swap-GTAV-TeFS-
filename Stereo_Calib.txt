@@ -1,0 +1,6 @@
+#fx fy cx cy
+960 960 960 540
+
+#stereo camera setup
+#stereo baseline, h angle, v angle, vfov, hfov, farClip, nearClip, posY,posZ
+0.54, 0, 0, 59.0,90.0, 600, 0.01, 0.6, 1.0

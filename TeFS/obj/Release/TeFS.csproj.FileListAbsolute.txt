@@ -1,0 +1,21 @@
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\obj\Release\TeFS.csproj.CoreCompileInputs.cache
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\obj\Release\TeFS.csprojAssemblyReference.cache
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\bin\Release\TeFS.dll
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\bin\Release\TeFS.pdb
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\bin\Release\NativeUI.dll
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\bin\Release\ScriptHookVDotNet2.dll
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\bin\Release\NativeUI.xml
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\bin\Release\ScriptHookVDotNet2.xml
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\obj\Release\TeFS.csproj.CopyComplete
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\obj\Release\TeFS.dll
+C:\Users\luoye\source\repos\BitBucket Repo\TeFS\TeFS\TeFS\obj\Release\TeFS.pdb
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\bin\Release\TeFS.dll
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\bin\Release\TeFS.pdb
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\bin\Release\ScriptHookVDotNet2.dll
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\bin\Release\NativeUI.xml
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\bin\Release\ScriptHookVDotNet2.xml
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\obj\Release\TeFS.csprojAssemblyReference.cache
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\obj\Release\TeFS.csproj.CoreCompileInputs.cache
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\obj\Release\TeFS.csproj.CopyComplete
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\obj\Release\TeFS.dll
+C:\Users\luoye\source\repos\BitBucket_Repos\TeFS\obj\Release\TeFS.pdb

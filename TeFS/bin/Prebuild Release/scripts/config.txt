@@ -1,0 +1,39 @@
+[Output]
+Directory=C:/Users/luoye/Desktop/stereo output/
+
+[Start Position]
+-1597.23,-222.1757,54.56444
+
+[Custom Routes]
+-1533.99, -222.9292, 53.03907
+-1462.816,-223.7085, 49.18135
+-1394.02, -206.936, 45.74041
+-1390.955, -280.3338, 43.12639
+-1423.688, -350.0513, 41.98531
+-1338.193, -370.0315, 36.58515
+-1324.831, -295.5976, 39.01257
+-1450.876, -129.0584, 50.30497
+-1648.857, -327.1145, 50.13473
+
+# default Auto Drive Speed at 5, 4.16
+[Speed]
+5, 4.16
+
+[Screen Resolution]
+3840, 2160
+
+[Game Resolution]
+1920, 1080
+
+[Capture Offset]
+960, 540
+
+#stereo baseline, h angle, v angle, vfov, farClip, nearClip, posY,posZ
+[Camera Setup]
+0.54, 0, 0, 59.0, 600, 0.01, 0.6, 1.0
+
+[Reduce Traffic]
+1, 0.0
+
+[Store Time]
+5, 0
