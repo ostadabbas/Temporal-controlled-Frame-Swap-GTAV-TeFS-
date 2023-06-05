@@ -7,7 +7,7 @@ Pregenerated GTAV-TeFS dataset:[City_01_Day](https://coe.northeastern.edu/Resear
 
 
 ## Samples
-[GTAV-TeFS sample dataset](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/GTAV_TeFS_Data_Sample.zip)
+[GTAV-TeFS sample dataset](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS_z/GTAV_TeFS_Data_Sample.zip)
 
 [![Stereo output video sample](https://img.youtube.com/vi/wBe1WyqN0EM/maxresdefault.jpg)](https://youtu.be/wBe1WyqN0EM)
 
