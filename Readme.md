@@ -111,3 +111,15 @@ To prevent encountering unknown issues, it is recommended to update your video c
 ## Acknowledgment 
 
 This research was sponsored by the DEVCOM Analysis Center and was accomplished under Cooperative Agreement Number W911NF-22-2-0001. The views and conclusions contained in this document are those of the authors and should not be interpreted as representing the official policies, either expressed or implied, of the Army Research Office or the U.S. Government. The U.S. Government is authorized to reproduce and distribute reprints for Government purposes notwithstanding any copyright notation herein.
+
+## Citation
+```bash
+@article{Luo2023TeFS,
+  title={Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis},
+  author={Luo, Yedi and Bai, Xiangyu and Jiang, Le  and Gupta,  Aniket  and
+ Mortin, Eric and Singh, Hanumant and Ostadabbas, Sarah},
+    journal={https://arxiv.org/pdf/2306.01704.pdf},
+  year={2023}
+  }
+  
+```
