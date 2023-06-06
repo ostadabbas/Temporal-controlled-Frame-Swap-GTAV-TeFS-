@@ -14,7 +14,7 @@ TeFS in GTA V is a native UI-based plugin that enables stereo driving data colle
 
 
 ### TeFS Presentation
-[![TeFS Presentation](http://img.youtube.com/vi/mIfOBIx3HwA/0.jpg)](https://www.youtube.com/watch?v=mIfOBIx3HwA&ab_channel=SarahOstadabbas)
+[![TeFS Presentation](https://img.youtube.com/vi/mIfOBIx3HwA/maxresdefault.jpg)](https://www.youtube.com/watch?v=mIfOBIx3HwA&ab_channel=SarahOstadabbas)
 
 Pregenerated GTAV-TeFS dataset:[City_01_Day](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/City01_Day.zip), [City_01_Night](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/City_01_Night.zip), [City02_Day](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/City02_Day.zip), [City02_Night](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/City02_Night.zip), [City03_Mix](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/City03_Mix.zip), [City05_AirportTraffic](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/City05_AirportTraffic.zip), [Offroadmix_Day](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/Offroadmix_Day.zip), [Offroadmix_Night](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/Offroadmix_Night.zip), [Comparison Group](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/Comparison.zip), 
 
