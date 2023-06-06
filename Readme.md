@@ -86,7 +86,7 @@ python metadata2traj.py
 ## Stereo Odometry ORB-SLAM3 Evaluation Example
 
 1. Install [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3).
-2. Download the processed GTA-TeFS sample [here](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS/orb_example.zip).
+2. Download the processed GTA-TeFS sample [here](https://gtav-tefs.s3.amazonaws.com/orb_example.zip).
 3. Unzip it to the directory of your choice.
 4. Copy and paste the `GTA_1080.yaml` to the `ORB_SLAM3/Examples/Stereo` folder.
 5. Go to the ORB-SLAM3 main directory, and run:
