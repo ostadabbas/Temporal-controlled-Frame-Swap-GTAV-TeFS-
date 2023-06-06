@@ -1,7 +1,7 @@
 # GTAV-TeFS
 ## Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis
 
-TeFS in GTA V is a native UI-based plugin that enables stereo driving data collection in the GTA V environment. This repo produces high-resolution stereo RGB image pairs accompanied by temporal information, GPS coordinates, camera poses, and full-resolution dense depth maps(convertible to disparity map). Facilitating stereo Visual SLAM tasks, which were previously unachievable with GTA V. 
+TeFS in GTA V is a native UI-based plugin that enables stereo driving data collectionin the GTA V environment. This repo produces high-resolution stereo RGB image pairs accompanied by temporal information, GPS coordinates, camera poses, and full-resolution dense depth maps(convertible to disparity map). Each collected stereo pair exhibits a temporal offset of just 0.2ms-0.3ms between the left and right cameras, a notable reduction from the standard 16.7ms-33.4ms offset in typical frame swaps. Facilitating stereo Visual SLAM tasks, which were previously unachievable with GTA V. 
 Paper Link: [https://arxiv.org/abs/2306.01704](https://arxiv.org/abs/2306.01704)
 
 
@@ -10,9 +10,11 @@ Paper Link: [https://arxiv.org/abs/2306.01704](https://arxiv.org/abs/2306.01704)
 ## Samples
 [GTAV-TeFS sample dataset](https://coe.northeastern.edu/Research/AClab/GTAV-TeFS_z/GTAV_TeFS_Data_Sample.zip)
 
-### Stereo output video sample
+### Stereo Output Video Sample
 [![Stereo output video sample](https://img.youtube.com/vi/wBe1WyqN0EM/maxresdefault.jpg)](https://youtu.be/wBe1WyqN0EM)
 
+### Trajectory Ground Truth Sample
+![Trajectory Ground Truth Sample](trajGT.png)
 
 ### TeFS Presentation
 [![TeFS Presentation](https://img.youtube.com/vi/mIfOBIx3HwA/maxresdefault.jpg)](https://www.youtube.com/watch?v=mIfOBIx3HwA&ab_channel=SarahOstadabbas)
