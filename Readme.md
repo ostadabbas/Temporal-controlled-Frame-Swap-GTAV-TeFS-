@@ -111,7 +111,7 @@ evo_ape tum gt.txt CameraTrajectory.txt -p --align
 ![Evo Compare Result](evoResult.png)
 
 ## Some Potential Issues
-The game clock may vary between machines. All experiments and data collection were conducted using an desktop with RTX 3090 Ti and Intel i9-12900KS. There was one observed clock difference when running the game on an older Alienware machine with an i7-9700 and an RTX 2070. The specific reason for this discrepancy is unknown. While this difference should not affect the stereo data collection, it may impact the time gap between consecutive image pairs collected.
+The game clock may vary between machines. All experiments and data collection were conducted using a desktop with RTX 3090 Ti and Intel i9-12900KS. There was one observed clock difference when running the game on an older Alienware machine with an i7-9700 and an RTX 2070. The specific reason for this discrepancy is unknown. While this difference should not affect the stereo data collection, it may impact the time gap between consecutive image pairs collected.
 
 To prevent encountering unknown issues, it is recommended to update your video card driver to the lastest version.
 
